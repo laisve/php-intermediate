@@ -1,0 +1,28 @@
+.content {
+    width: 60%;
+    margin: 0 auto;
+    position: relative;
+    font-family: 'Verdana', 'Tahoma';
+    border: 2px solid black;
+    padding: 15px;
+}
+.input{
+    display: block;
+    margin-top: 15px;
+}
+input {
+    margin-left: 25px;
+    height: 20px;
+}
+.button {
+    background-color: PaleVioletRed;
+    box-shadow: 3px MediumTurqoise;
+    font-size: 17px;
+    color: white;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: none;
+    height: 35px;
+    float: right;
+    margin-top: -28px;
+}

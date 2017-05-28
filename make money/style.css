@@ -1,0 +1,43 @@
+.content {
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    font-family: 'Verdana', 'Tahoma';
+}
+.top {
+    width: 80%;
+    margin: 0 auto;
+    padding-left: 20px;
+}
+.main {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+.building {
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+}
+#activities {
+    text-align: left;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.button {
+    padding: 10px;
+    border: none;
+    background-color: DarkSalmon;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+}
+#messages {
+    text-align: left;
+    border: 1px solid black;
+    padding: 10px;
+}
